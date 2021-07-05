@@ -4,7 +4,7 @@
 	------------------------
 	-- TABLE OF CONTENTS --
 	------------------------
-	
+
 	--  01. Basic
 	--  02. Preloader
     --  03. Hero
@@ -15,8 +15,8 @@
     --  08. Page --> About
     --  09. Page --> Portfolio Item Type B
     --  10. Page --> Portfolio Item Type B
- 
- 
+
+
  ******************************************************************/
 
 
@@ -195,7 +195,7 @@ a:hover
 .preloader.preloader-hidden
 {
     height: 0;
-    
+
     -webkit-transition: .5s ease .3s;
          -o-transition: .5s ease .3s;
             transition: .5s ease .3s;
@@ -218,7 +218,7 @@ a:hover
 .preloader.preloader-hidden .spinner
 {
     opacity: 0;
-    
+
     -webkit-transition: .3s ease;
          -o-transition: .3s ease;
             transition: .3s ease;
@@ -389,7 +389,7 @@ a:hover
 
 
 
-/** 4. Hero --> Front Content 
+/** 4. Hero --> Front Content
 *******************************************************************/
 
 .hero .front-content
@@ -435,7 +435,7 @@ a:hover
 
 
 
-/** 5. Hero --> Background Content 
+/** 5. Hero --> Background Content
 *******************************************************************/
 
 .hero .background-content
@@ -495,7 +495,7 @@ a:hover
     width: 100%;
     height: 100%;
 
-    background: url(../img/background.jpg);
+    background: url(../img/unamed.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
